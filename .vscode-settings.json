@@ -1,0 +1,20 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontFamily": "Courier New",
+    "editor.fontSize": 14,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": null
+  }
+  
